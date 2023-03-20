@@ -1,0 +1,15 @@
+D:\TUGASS SEMUA\permograman\permograman\bin\Debug\net6.0\permograman.exe
+D:\TUGASS SEMUA\permograman\permograman\bin\Debug\net6.0\permograman.deps.json
+D:\TUGASS SEMUA\permograman\permograman\bin\Debug\net6.0\permograman.runtimeconfig.json
+D:\TUGASS SEMUA\permograman\permograman\bin\Debug\net6.0\permograman.dll
+D:\TUGASS SEMUA\permograman\permograman\bin\Debug\net6.0\permograman.pdb
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.csproj.AssemblyReference.cache
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.AssemblyInfoInputs.cache
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.AssemblyInfo.cs
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.csproj.CoreCompileInputs.cache
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.dll
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\refint\permograman.dll
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.pdb
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\permograman.genruntimeconfig.cache
+D:\TUGASS SEMUA\permograman\permograman\obj\Debug\net6.0\ref\permograman.dll
